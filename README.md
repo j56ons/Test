@@ -1,11 +1,14 @@
-Dear VV,
+Dear Rajas,
 
-Today is my last day at DTCC, and I want to express my gratitude for your leadership and support. Working under your guidance has been an enriching experience, and I appreciate the trust and encouragement you’ve shown me.
+Today is my last day at DTCC, and I want to take a moment to thank you for your guidance and support. Working with you has been an invaluable experience, and I truly appreciate the trust you placed in me and the opportunities I had to contribute under your leadership.
 
-Your insights and approach to challenges have been inspiring, and I’m thankful for the opportunities to contribute to our projects and grow under your management.
+Your thoughtful approach to challenges and dedication to excellence have been inspiring. I have learned so much from your leadership style, and it has had a lasting impact on me.
 
-Please feel free to stay in touch at [your personal email] or on [LinkedIn].
+Please feel free to stay in touch at 
+jon.hung.job@gmail.com 
+732-690-8523 
+linkedin https://www.linkedin.com/in/johung/
 
-Thank you for everything. I wish you and the team continued success.
+Thank you again for everything. Wishing you and the team continued success and all the best in the future.
 
-Warm regards,[Your Name]
+Warm regards,
