@@ -1,11 +1,31 @@
-Dear [Co-worker's Name],
+plugins {
+    id 'org.springframework.boot' version '3.2.3'
+    id 'io.spring.dependency-management' version '1.1.4'
+    id 'java'
+}
 
-Today is my last day at DTCC, and I want to take a moment to thank you for the camaraderie and collaboration we’ve shared. Working alongside you has been a wonderful experience, and I truly value the support and teamwork we’ve built over our time together.
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '21'
 
-Your professionalism and dedication have been inspiring, and I’ve learned a great deal from working with you.
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
 
-Let’s stay in touch! You can reach me at [your personal email] or connect with me on [LinkedIn].
+repositories {
+    mavenCentral()
+}
 
-Wishing you all the best for the future. Thank you again for everything!
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    runtimeOnly 'com.h2database:h2'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
 
-Warm regards,[Your Name]
+test {
+    useJUnitPlatform()
+}
