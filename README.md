@@ -1,46 +1,6 @@
-📝 Quarterly Goals (Q2 2025) – First Review
-Goal: Establish a strong technical foundation by ramping up on Comcast’s backend systems and contributing to key modernization efforts.
-Objectives:
-
-Complete onboarding by becoming fully productive within the Device Portal team by end of May.
-
-Deliver meaningful contributions to the Spring Boot 3.3 / JDK 21 migration effort.
-
-Learn and apply Comcast’s internal development standards, CI/CD pipelines, and deployment practices.
-
-Proactively identify at least one area of technical debt or inefficiency and propose a solution.
-
-Success Indicators:
-
-Successfully merge multiple PRs related to the migration project with positive peer reviews.
-
-Participate in code reviews and knowledge-sharing discussions.
-
-Onboarded and contributing with minimal supervision within 60 days of start date.
-
-Recognized by peers or tech lead for impactful suggestions or contributions.
-
-🎯 Yearly Goals (2025)
-Goal: Become a key contributor to the team’s modernization and efficiency initiatives, driving technical excellence and continuous improvement.
-Objectives:
-
-Complete the full migration of legacy modules to Spring Boot 3.3 and JDK 21 with high reliability and performance.
-
-Lead at least one backend improvement initiative focused on reducing complexity, improving maintainability, or optimizing performance.
-
-Identify and help implement one automation or tooling enhancement (e.g., build optimization, better test coverage, observability improvements).
-
-Build strong collaboration with cross-functional teams and contribute to architectural discussions.
-
-Take initiative to explore innovation opportunities (e.g., Kotlin pilot, async patterns, cloud-native enhancements).
-
-Success Indicators:
-
-Recognized as a go-to engineer for Spring Boot 3.x expertise within the team.
-
-Lead effort adopted across the team (e.g., automation tool, refactor pattern, etc.).
-
-Reduction in bug count or MTTR due to your improvement.
-
-High satisfaction in peer feedback and performance calibration sessions.
-
+Performance Goal	Description
+Complete onboarding and become a productive contributor by end of Q2	Ramp up quickly on Comcast’s backend ecosystem, development processes, and Device Portal architecture. Participate in code reviews, understand CI/CD workflows, and contribute independently within 60 days.
+Support Spring Boot 3.3 and JDK 21 migration for Device Portal	Collaborate with the team to migrate backend services to Spring Boot 3.3 and JDK 21. Use OpenRewrite and automated tooling where applicable, and ensure high code quality and test coverage.
+Improve backend development efficiency	Identify one area of inefficiency or technical debt in the backend system and implement a solution to improve performance, maintainability, or deployment speed.
+Drive innovation through backend modernization	Explore and prototype new ideas like Kotlin introduction, improved observability/logging, or build tool enhancements. Share findings with the team and lead implementation if adopted.
+Build strong cross-functional collaboration	Engage with QA, DevOps, and frontend teams to ensure smooth integration, shared understanding of system goals, and faster issue resolution during releases.
