@@ -1,2 +1,1 @@
-Since joining Comcast on March 31, I’ve focused on quickly ramping up and contributing to the Spring Boot 3.3 / JDK 21 migration for the Device Portal. I’ve delivered code updates, resolved compatibility issues, and supported testing to ensure a smooth transition. I’ve also looked for ways to improve efficiency, such as exploring automation tools. Moving forward, I aim to lead backend improvements and contribute to innovation through better performance and modernization efforts.
 
