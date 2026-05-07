@@ -1,4 +1,4 @@
-
+01TnTURova257yM7yvjg8oFU
 @Configuration
 public class JpaBuilderConfig {
 
